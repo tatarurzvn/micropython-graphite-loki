@@ -1,0 +1,3 @@
+[submodule "mrequests"]
+	path = mrequests
+	url = git@github.com:SpotlightKid/mrequests.git
