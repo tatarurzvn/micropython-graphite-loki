@@ -1,6 +1,7 @@
 # micropython-graphite-loki-http
 Sends graphite & loki stats to cloud via HTTP.
-Wifi connection needs to be set-up before.
+Wifi connection needs to be set-up before. 
+Time needs to be set-up before.
 
 ## Installation
 - Replace `config.py` with correct credentials
